@@ -36,6 +36,7 @@ v. Actualiza al Proveedor
 |  Notas |  __ |
 | Autor  | _Emanuel santamaria_ |
 |Fecha | _19/11/2024_ |
+
 |  Atributo |||
 |---|---|---|
 | _Nombre_  | _Descripción_  | _Tipo_ |
@@ -50,6 +51,7 @@ v. Actualiza al Proveedor
 |  Notas |  __ |
 | Autor  | _Emanuel Santamaria_ |
 |Fecha | _19/11/2024_ |
+
 |  Atributo |||
 |---|---|---|
 | _Nombre_  | _Descripción_  | _Tipo_ |
